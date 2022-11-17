@@ -97,7 +97,8 @@ stocks = {
     'Toyota' : '7203.T',
     'Coca Cola' : 'KO',
     'AB InBev' : 'ABI.BR',
-    'Kirin' : '2503.T'
+    'Kirin' : '2503.T',
+    'Petrobras' : 'PETR3'
 }
 
 # Dictionary listing the 5 trading indices considered as testbench
