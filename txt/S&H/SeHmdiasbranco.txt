@@ -1,0 +1,48 @@
+No training is required as the simple Sell and Hold trading strategy does not involve any tunable parameters.
+No training results are available as the simple Sell and Hold trading strategy does not involve any tunable parameters.
+╒═══════════════════════════╤═══════════╕
+│   Performance Indicator   │    S&H    │
+╞═══════════════════════════╪═══════════╡
+│    Profit & Loss (P&L)    │  -100003  │
+├───────────────────────────┼───────────┤
+│     Annualized Return     │ -100.00%  │
+├───────────────────────────┼───────────┤
+│   Annualized Volatility   │  182.66%  │
+├───────────────────────────┼───────────┤
+│       Sharpe Ratio        │  -0.872   │
+├───────────────────────────┼───────────┤
+│       Sortino Ratio       │  -0.683   │
+├───────────────────────────┼───────────┤
+│     Maximum Drawdown      │  100.00%  │
+├───────────────────────────┼───────────┤
+│ Maximum Drawdown Duration │ 1305 days │
+├───────────────────────────┼───────────┤
+│       Profitability       │   0.00%   │
+├───────────────────────────┼───────────┤
+│ Ratio Average Profit/Loss │   0.000   │
+├───────────────────────────┼───────────┤
+│         Skewness          │  -15.561  │
+╘═══════════════════════════╧═══════════╛
+╒═══════════════════════════╤══════════╕
+│   Performance Indicator   │   S&H    │
+╞═══════════════════════════╪══════════╡
+│    Profit & Loss (P&L)    │  32925   │
+├───────────────────────────┼──────────┤
+│     Annualized Return     │  14.82%  │
+├───────────────────────────┼──────────┤
+│   Annualized Volatility   │  18.18%  │
+├───────────────────────────┼──────────┤
+│       Sharpe Ratio        │  0.893   │
+├───────────────────────────┼──────────┤
+│       Sortino Ratio       │  1.212   │
+├───────────────────────────┼──────────┤
+│     Maximum Drawdown      │  15.33%  │
+├───────────────────────────┼──────────┤
+│ Maximum Drawdown Duration │ 116 days │
+├───────────────────────────┼──────────┤
+│       Profitability       │ 100.00%  │
+├───────────────────────────┼──────────┤
+│ Ratio Average Profit/Loss │   inf    │
+├───────────────────────────┼──────────┤
+│         Skewness          │  -0.269  │
+╘═══════════════════════════╧══════════╛

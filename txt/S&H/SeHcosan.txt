@@ -1,0 +1,48 @@
+No training is required as the simple Sell and Hold trading strategy does not involve any tunable parameters.
+No training results are available as the simple Sell and Hold trading strategy does not involve any tunable parameters.
+╒═══════════════════════════╤══════════╕
+│   Performance Indicator   │   S&H    │
+╞═══════════════════════════╪══════════╡
+│    Profit & Loss (P&L)    │  -37908  │
+├───────────────────────────┼──────────┤
+│     Annualized Return     │  3.36%   │
+├───────────────────────────┼──────────┤
+│   Annualized Volatility   │  48.85%  │
+├───────────────────────────┼──────────┤
+│       Sharpe Ratio        │  0.077   │
+├───────────────────────────┼──────────┤
+│       Sortino Ratio       │  0.115   │
+├───────────────────────────┼──────────┤
+│     Maximum Drawdown      │  61.41%  │
+├───────────────────────────┼──────────┤
+│ Maximum Drawdown Duration │ 280 days │
+├───────────────────────────┼──────────┤
+│       Profitability       │  0.00%   │
+├───────────────────────────┼──────────┤
+│ Ratio Average Profit/Loss │  0.000   │
+├───────────────────────────┼──────────┤
+│         Skewness          │  0.241   │
+╘═══════════════════════════╧══════════╛
+╒═══════════════════════════╤══════════╕
+│   Performance Indicator   │   S&H    │
+╞═══════════════════════════╪══════════╡
+│    Profit & Loss (P&L)    │  -62104  │
+├───────────────────────────┼──────────┤
+│     Annualized Return     │ -58.29%  │
+├───────────────────────────┼──────────┤
+│   Annualized Volatility   │  38.43%  │
+├───────────────────────────┼──────────┤
+│       Sharpe Ratio        │  -1.099  │
+├───────────────────────────┼──────────┤
+│       Sortino Ratio       │  -1.535  │
+├───────────────────────────┼──────────┤
+│     Maximum Drawdown      │  70.78%  │
+├───────────────────────────┼──────────┤
+│ Maximum Drawdown Duration │ 304 days │
+├───────────────────────────┼──────────┤
+│       Profitability       │  0.00%   │
+├───────────────────────────┼──────────┤
+│ Ratio Average Profit/Loss │  0.000   │
+├───────────────────────────┼──────────┤
+│         Skewness          │  -0.131  │
+╘═══════════════════════════╧══════════╛

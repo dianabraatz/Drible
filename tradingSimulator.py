@@ -98,7 +98,35 @@ stocks = {
     'Coca Cola' : 'KO',
     'AB InBev' : 'ABI.BR',
     'Kirin' : '2503.T',
-    'Petrobras' : 'PETR3'
+    
+    'Eletrobras' : 'ELET3',
+    'TOTVS' : 'TOTS3',
+    'Maxion' : 'MYPK3',
+    'MetalLeve' : 'LEVE3',
+    'Camil' : 'CAML3',
+    'MDiasBranco' : 'MDIA3',
+    'Minerva' : 'BEEF3',
+    'Brasil' : 'BBAS3',
+    'BTGPBanco' : 'BPAC11',
+    'Petrobras' : 'PETR3',
+    'Petrobrasb' : 'PETR4',
+    'Cosan' : 'CSAN3',
+    'RaiaDrogasil' : 'RADL3',
+    'Sinqia' : 'SQIA3',
+    
+    'Gerdau' : 'GGBR3',
+    'Usiminas' : 'USIM3',
+    'Marcopolo' : 'POMO3',
+    'Azul' : 'AZUL4',
+    'Gol' : 'GOLL4',
+    'Slcagricola' : 'SLCE3',
+    'Arezzo' : 'ARZZ3',
+    'Lojasrenner' : 'LREN3',
+    'Magazluiza' : 'MGLU3',
+    'Americanas' : 'AMER3',
+    'Ourofino' : 'OFSA3',
+    'Cpfl' : 'CPFE3',
+    'Technos' : 'TECN3'
 }
 
 # Dictionary listing the 5 trading indices considered as testbench
@@ -107,7 +135,9 @@ indices = {
     'S&P 500' : 'SPY',
     'NASDAQ 100' : 'QQQ',
     'FTSE 100' : 'EZU',
-    'Nikkei 225' : 'EWJ'
+    'Nikkei 225' : 'EWJ',
+    
+    'B3' : 'B3SA3'
 }
 
 # Dictionary listing the 25 company stocks considered as testbench
@@ -136,15 +166,44 @@ companies = {
     'Toyota' : '7203.T',
     'Coca Cola' : 'KO',
     'AB InBev' : 'ABI.BR',
-    'Kirin' : '2503.T'
+    'Kirin' : '2503.T',
+    
+    'Eletrobras' : 'ELET3',
+    'TOTVS' : 'TOTS3',
+    'Maxion' : 'MYPK3',
+    'MetalLeve' : 'LEVE3',
+    'Camil' : 'CAML3',
+    'MDiasBranco' : 'MDIA3',
+    'Minerva' : 'BEEF3',
+    'Brasil' : 'BBAS3',
+    'BTGPBanco' : 'BPAC11',
+    'Petrobras' : 'PETR3',
+    'Petrobrasb' : 'PETR4',
+    'Cosan' : 'CSAN3',
+    'RaiaDrogasil' : 'RADL3',
+    'Sinqia' : 'SQIA3',
+    
+    'Gerdau' : 'GGBR3',
+    'Usiminas' : 'USIM3',
+    'Marcopolo' : 'POMO3',
+    'Azul' : 'AZUL4',
+    'Gol' : 'GOLL4',
+    'Slcagricola' : 'SLCE3',
+    'Arezzo' : 'ARZZ3',
+    'Lojasrenner' : 'LREN3',
+    'Magazluiza' : 'MGLU3',
+    'Americanas' : 'AMER3',
+    'Ourofino' : 'OFSA3',
+    'Cpfl' : 'CPFE3',
+    'Technos' : 'TECN3'
 }
 
 # Dictionary listing the classical trading strategies supported
 strategies = {
-    'Buy and Hold' : 'BuyAndHold',
-    'Sell and Hold' : 'SellAndHold',
-    'Trend Following Moving Averages' : 'MovingAveragesTF',
-    'Mean Reversion Moving Averages' : 'MovingAveragesMR'
+    'BuyandHold' : 'BuyAndHold',
+    'SellandHold' : 'SellAndHold',
+    'TFMA' : 'MovingAveragesTF', #TrendFollowingMovingAverages
+    'MRMA' : 'MovingAveragesMR' #MeanReversionMovingAverages
 }
 
 # Dictionary listing the AI trading strategies supported
