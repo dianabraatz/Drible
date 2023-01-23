@@ -99,34 +99,39 @@ stocks = {
     'AB InBev' : 'ABI.BR',
     'Kirin' : '2503.T',
     
-    'Eletrobras' : 'ELET3',
-    'TOTVS' : 'TOTS3',
-    'Maxion' : 'MYPK3',
-    'MetalLeve' : 'LEVE3',
-    'Camil' : 'CAML3',
-    'MDiasBranco' : 'MDIA3',
-    'Minerva' : 'BEEF3',
-    'Brasil' : 'BBAS3',
-    'BTGPBanco' : 'BPAC11',
-    'Petrobras' : 'PETR3',
-    'Petrobrasb' : 'PETR4',
-    'Cosan' : 'CSAN3',
-    'RaiaDrogasil' : 'RADL3',
-    'Sinqia' : 'SQIA3',
+    'eletrobras' : 'ELET3',
+    'totvs' : 'TOTS3',
+    'maxion' : 'MYPK3',
+    'metalleve' : 'LEVE3',
+    'camil' : 'CAML3',
+    'mdiasbranco' : 'MDIA3',
+    'btgpbanco' : 'BPAC11',
+    'petrobras' : 'PETR3',
+    'petrobrasb' : 'PETR4',
+    'cosan' : 'CSAN3',
+    'raiadrogasil' : 'RADL3',
+    'sinqia' : 'SQIA3',
     
-    'Gerdau' : 'GGBR3',
-    'Usiminas' : 'USIM3',
-    'Marcopolo' : 'POMO3',
-    'Azul' : 'AZUL4',
-    'Gol' : 'GOLL4',
-    'Slcagricola' : 'SLCE3',
-    'Arezzo' : 'ARZZ3',
-    'Lojasrenner' : 'LREN3',
-    'Magazluiza' : 'MGLU3',
-    'Americanas' : 'AMER3',
-    'Ourofino' : 'OFSA3',
-    'Cpfl' : 'CPFE3',
-    'Technos' : 'TECN3'
+    'gerdau' : 'GGBR3',
+    'usiminas' : 'USIM3',
+    'marcopolo' : 'POMO3',
+    'azul' : 'AZUL4',
+    'gol' : 'GOLL4',
+    'slcagricola' : 'SLCE3',
+    'arezzo' : 'ARZZ3',
+    'lojasrenner' : 'LREN3',
+    'magazluiza' : 'MGLU3',
+    'americanas' : 'AMER3',
+    'ourofino' : 'OFSA3',
+    'cpfl' : 'CPFE3',
+    'technos' : 'TECN3',
+    
+    'jbs':'JBSS3',
+    'carrefeur':'CRFB3',
+    'cvcbrasil':'CVCB3',
+    'minerva' : 'BEEF3',
+    'brasil' : 'BBAS3',
+    'energisa':'ENGI11'
 }
 
 # Dictionary listing the 5 trading indices considered as testbench
@@ -168,34 +173,39 @@ companies = {
     'AB InBev' : 'ABI.BR',
     'Kirin' : '2503.T',
     
-    'Eletrobras' : 'ELET3',
-    'TOTVS' : 'TOTS3',
-    'Maxion' : 'MYPK3',
-    'MetalLeve' : 'LEVE3',
-    'Camil' : 'CAML3',
-    'MDiasBranco' : 'MDIA3',
-    'Minerva' : 'BEEF3',
-    'Brasil' : 'BBAS3',
-    'BTGPBanco' : 'BPAC11',
-    'Petrobras' : 'PETR3',
-    'Petrobrasb' : 'PETR4',
-    'Cosan' : 'CSAN3',
-    'RaiaDrogasil' : 'RADL3',
-    'Sinqia' : 'SQIA3',
+    'eletrobras' : 'ELET3',
+    'totvs' : 'TOTS3',
+    'maxion' : 'MYPK3',
+    'metalleve' : 'LEVE3',
+    'camil' : 'CAML3',
+    'mdiasbranco' : 'MDIA3',
+    'btgpbanco' : 'BPAC11',
+    'petrobras' : 'PETR3',
+    'petrobrasb' : 'PETR4',
+    'cosan' : 'CSAN3',
+    'raiadrogasil' : 'RADL3',
+    'sinqia' : 'SQIA3',
     
-    'Gerdau' : 'GGBR3',
-    'Usiminas' : 'USIM3',
-    'Marcopolo' : 'POMO3',
-    'Azul' : 'AZUL4',
-    'Gol' : 'GOLL4',
-    'Slcagricola' : 'SLCE3',
-    'Arezzo' : 'ARZZ3',
-    'Lojasrenner' : 'LREN3',
-    'Magazluiza' : 'MGLU3',
-    'Americanas' : 'AMER3',
-    'Ourofino' : 'OFSA3',
-    'Cpfl' : 'CPFE3',
-    'Technos' : 'TECN3'
+    'gerdau' : 'GGBR3',
+    'usiminas' : 'USIM3',
+    'marcopolo' : 'POMO3',
+    'azul' : 'AZUL4',
+    'gol' : 'GOLL4',
+    'slcagricola' : 'SLCE3',
+    'arezzo' : 'ARZZ3',
+    'lojasrenner' : 'LREN3',
+    'magazluiza' : 'MGLU3',
+    'americanas' : 'AMER3',
+    'ourofino' : 'OFSA3',
+    'cpfl' : 'CPFE3',
+    'technos' : 'TECN3',
+    
+    'jbs':'JBSS3',
+    'carrefeur':'CRFB3',
+    'cvcbrasil':'CVCB3',
+    'minerva' : 'BEEF3',
+    'brasil' : 'BBAS3',
+    'energisa':'ENGI11'
 }
 
 # Dictionary listing the classical trading strategies supported
@@ -653,12 +663,12 @@ class TradingSimulator:
         # Initialization of some variables
         performanceTable = [["Profit & Loss (P&L)"], ["Annualized Return"], ["Annualized Volatility"], ["Sharpe Ratio"], ["Sortino Ratio"], ["Maximum DrawDown"], ["Maximum DrawDown Duration"], ["Profitability"], ["Ratio Average Profit/Loss"], ["Skewness"]]
         headers = ["Performance Indicator"]
-
+        
         # Loop through each stock included in the testbench (progress bar)
         print("Trading strategy evaluation progression:")
         #for stock in tqdm(itertools.chain(indices, companies)):
         for stock in tqdm(stocks):
-
+            
             # Simulation of the trading strategy on the current stock
             try:
                 # Simulate an already existing trading strategy on the current stock
@@ -725,11 +735,11 @@ class TradingSimulator:
         # Initialization of some variables
         performanceTable = [["Profit & Loss (P&L)"], ["Annualized Return"], ["Annualized Volatility"], ["Sharpe Ratio"], ["Sortino Ratio"], ["Maximum DrawDown"], ["Maximum DrawDown Duration"], ["Profitability"], ["Ratio Average Profit/Loss"], ["Skewness"]]
         headers = ["Performance Indicator"]
-
+        
         # Loop through all the trading strategies supported (progress bar)
         print("Trading strategies evaluation progression:")
         for strategy in tqdm(itertools.chain(strategies, strategiesAI)):
-
+            
             # Simulation of the current trading strategy on the stock
             try:
                 # Simulate an already existing trading strategy on the stock
@@ -746,7 +756,7 @@ class TradingSimulator:
             headers.append(strategy)
             for i in range(len(performanceTable)):
                 performanceTable[i].append(performance[i][1])
-
+            
         # Display the performance table
         tabulation = tabulate(performanceTable, headers, tablefmt="fancy_grid", stralign="center")
         print(tabulation)

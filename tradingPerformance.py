@@ -319,7 +319,6 @@ class PerformanceEstimator:
                                  ["Profitability", "{0:.2f}".format(self.profitability) + '%'],
                                  ["Ratio Average Profit/Loss", "{0:.3f}".format(self.averageProfitLossRatio)],
                                  ["Skewness", "{0:.3f}".format(self.skewness)]]
-        
         return self.performanceTable
 
 
@@ -333,12 +332,11 @@ class PerformanceEstimator:
         OUTPUTS:    - performanceTable: Table summarizing the performance of 
                                         a trading activity.
         """
-        
+    
         # Generation of the performance table
         self.computePerformance()
-        
+    
         # Display the table in the console (Tabulate for the beauty of the print operation)
         headers = ["Performance Indicator", name]
         tabulation = tabulate(self.performanceTable, headers, tablefmt="fancy_grid", stralign="center")
         print(tabulation)
-    
